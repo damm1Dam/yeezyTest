@@ -1,0 +1,402 @@
+.first {
+    position: fixed;
+    text-align: left;
+    left: 5%;
+    transform: calc(-50% + 90px);;
+    top: 25px;
+    width: 300px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: transparent;
+    border: 0cap;
+    color: white;
+    font-size: 40px;  
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 100px;
+    text-shadow: black;
+    text-shadow: 
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000 ;
+    font-family: "Spongebob-font";
+    transition: transform 0.3s ease;
+    
+    
+}
+.second {
+    position: fixed;
+    text-align: left;
+    right: 5%;
+    transform: calc(50% + 90px);
+    top: 25px;
+    width: 300px;
+    height:70px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: transparent;
+    border: 0cap;
+    color: white;
+    font-size: 40px;  
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 100px;
+    text-shadow: black;
+    text-shadow: 
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000 ;
+    font-family: "Spongebob-font";
+    transition: transform 0.3s ease;
+    
+    
+}
+.third {
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 25px;
+    width: 300px;
+    height: 70px;
+    background-color: transparent;
+    border: 0cap;
+    color: white;
+    font-size: 40px;  
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 100px;
+    text-align: center;
+    margin-left: 0;
+    margin-right: 0;
+    text-shadow: 100px;
+    text-shadow: black;
+    text-shadow: 
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000 ;
+    font-family: "Spongebob-font";
+    transition: transform 0.3s ease;
+    
+}
+.main {
+    background-image: url(-);
+}
+
+
+.test {
+    width: 100px;
+    height: 100px;
+    font-size: 100px;
+    position: fixed;
+    left: 50%;
+
+}
+.testTwo {
+    width: 100px;
+    height: 100px;
+    font-size: 100px;
+    position: fixed;
+    left: 50%;
+    top: 900px;
+
+}
+
+.sponge {
+    width: 300px;
+    position:relative;
+    top: 200px;
+    left: 500px;
+    border-radius: 30px
+}
+
+.boots {
+    width: 700px;
+    position:relative;
+    top: 250px;
+    left: 500px;
+    border-radius: 30px
+    
+}
+
+
+.news {
+    width: 405px;
+    height: 824x;
+    position:fixed;
+    top: 200px;
+    left: 1500px;
+}
+
+.linee {
+    position: fixed;
+    width: 5px;
+    left: 15px;
+
+
+
+}
+
+.linee2 {
+    position: fixed;
+    width: 5px;
+    right: 15px;
+
+
+
+}
+
+.codee {
+    position: fixed;
+    top: 800px;
+    right: 60px;
+    width: 180px;
+    height: 75px;
+
+
+}
+
+
+.yel {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+
+
+}
+
+
+.funfacts {
+    position: fixed;
+    top: 50px;
+    left: 110px;
+    font-size: 60px;
+    font-family: "public-sans";
+
+
+
+
+}
+
+.bigtext {
+    position: fixed;
+    text-align: center;
+    width: 245px;
+    top: 170px;
+    left: 115px;
+    font-weight: bold;
+
+}
+
+
+
+.linessTwo {
+    position: fixed;
+    top: 190px;
+    width: 5px;
+    left: 90px;
+
+
+
+}
+
+.purch {
+    position: fixed;
+    top: 270px;
+    width: 456px;
+    height: 421px;
+    left: 450px;
+    border-width: 9px;
+    border-color: black;
+    border-style: solid;
+    background-color: white;
+
+
+}
+
+
+
+.nameofb {
+    position: fixed;
+    top: 120px;
+    left: 490px;
+    font-size: 64px;
+    font-family: "Spongebob-font";
+}
+    
+
+
+
+.bootsss {
+    position: fixed;
+    left: 300px;
+    top: 230px;
+    width: 740px;
+    height: 450px;
+}
+
+
+.buyy {
+    position: fixed;
+    justify-content: center;
+    top: 630px;
+    left: 505px;
+    background-color: rgb(82, 255, 0);
+    width: 343px;
+    height: 105px;
+    border-radius: 30px;
+    font-size: 80px;
+    text-align: center;
+    font-family: "public-sans";
+    text-anchor: middle;
+    border-width: 0;
+    box-shadow: 0 13px 1px rgba(40, 125, 0, 1);
+    transition: transform 0.3s ease;
+}
+
+.buyy:active {
+    transform: translateY(10px);
+    
+}
+
+.benef {
+    position: fixed;
+    left: 800px;
+    top: 200px;
+    width: 210px;
+    animation: benef 2s infinite;
+
+}
+
+
+
+.secr {
+
+    position: fixed;
+    top: 245px;
+    width: 480px;
+    height: 470px;
+    left: 950px;
+
+
+}
+
+.creatorr {
+    position: fixed;
+    bottom: 0px;
+    left: 900px;
+    font-weight: bold;
+    font-family: "public-sans";
+    
+    
+}
+
+.creato {
+    color: blueviolet;
+    font-weight: bold;
+    font-family: "public-sans";
+    
+
+
+}
+
+
+
+
+
+.miniboots {
+    position: fixed;
+    top: 20px;
+    left: 210px;
+    width: 180px;
+}
+
+
+.starrs {
+    position: fixed;
+    top: 15px;
+    left: 850px;
+    width: 250px;
+}
+
+
+
+
+.cartt {
+    position: fixed;
+    right: 265px;
+    top: 50px;
+}
+
+
+.button-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+.button-link:hover {
+    background-color: #2980b9;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: Spongebob-font;
+    src: url(fonts/Spongeboy\ Me\ Bob.ttf);
+}
+
+@font-face {
+    font-family: public-sans;
+    src: url(fonts/PublicSans-Bold.ttf);
+}
+
+@keyframes benef {
+    0% {
+        transform: scale(1)
+    }
+    50% {
+        transform: scale(1.2)
+    }
+    100% {
+        transform: scale(1)
+    }
+
+}
+
+@keyframes buyy {
+    0% {
+        transform: top(1)
+    }
+}
+
+@keyframes second {
+    0% {
+        transform: top(1)
+    }
+}
+
+@keyframes third {
+    0% {
+        transform: top(1)
+    }
+}

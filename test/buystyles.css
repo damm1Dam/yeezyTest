@@ -1,0 +1,226 @@
+.buyye {
+    font-family: 'Spongebob-font';
+    font-size: 50px;
+}
+
+
+
+
+.textdiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.buyframe {
+    width: 536px;
+    height: 501px;
+    border-width: 9px;
+    border-color: black;
+    border-style: solid;
+    background-color: white;
+}
+
+
+.buydiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100%; /* Adjust this if you want to center vertically within a specific height */
+}
+
+
+.textb {
+    display: flex;
+    justify-content: center;
+    align-items: 100px; 
+    width: 100%;
+    height: 300%
+}
+
+
+
+.BBB {
+
+    width: 150px;
+    height: 50px;
+    transform: translate(110%, 150%);
+    border-radius: 20px;
+    background-color: rgb(255, 129, 44);
+    font-family: 'Spongebob-font';
+    font-size: 30px;
+    position: fixed;
+}
+
+
+.Fi {
+    font-family: 'public-sans';
+    font-size: 30px;
+}
+
+.Se {
+    font-family: 'public-sans';
+    font-size: 30px;
+}
+
+.Th {
+    font-family: 'public-sans';
+    font-size: 30px;
+}
+
+
+.buydivButton{
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 120%;
+    height: 100%;
+    
+}
+
+
+.textbButton{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 250%;
+    
+}
+
+
+
+.buyyeBut{
+    font-family: 'Spongebob-font';
+    font-size: 15px;
+    
+}
+
+.firstt {
+    border-radius: 10px;
+    height: 30px;
+    width: 200px;
+    size: 10px;
+    font-size: 30px;
+    font-family: 'public-sans';
+
+}
+
+
+.secondd {
+    border-radius: 10px;
+    height: 30px;
+    width: 200px;
+    size: 5px;
+    font-size: 20px;
+    font-size: 30px;
+    font-family: 'public-sans';
+}
+
+.thirdd {
+    border-radius: 10px;
+    height: 30px;
+    width: 350px;
+    size: 0px;
+    font-size: 20px;
+    font-size: 30px;
+    font-family: 'public-sans';
+}
+
+.Cou {
+    width: 100px;
+    height: 50px;
+    transform: translate(110%, 100%);
+    border-radius: 100px;
+    width: 150px;
+    font-family: 'public-sans';
+}
+
+.notification {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #00ff55;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    z-index: 1000;
+    text-shadow: black;
+    text-shadow:     
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+   -1px  1px 0 #000,
+    1px  1px 0 #000;;
+    font-family: 'Spongebob-font';
+    font-size: 20px;
+}
+
+@keyframes slideDown {
+    from { top: -50px; }
+    to { top: 0; }
+}
+
+@keyframes slideUp {
+    from { top: 0; }
+    to { top: -50px; }
+}
+
+
+
+
+@font-face {
+    font-family: Spongebob-font;
+    src: url(fonts/Spongeboy\ Me\ Bob.ttf);
+}
+
+@font-face {
+    font-family: public-sans;
+    src: url(fonts/PublicSans-Bold.ttf);
+}
+
+
+@font-face {
+    font-family: AntipastoPro;
+    src: url(fonts/AntipastoPro-Bold_trial.ttf);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@keyframes benef {
+    0% {
+        transform: scale(1)
+    }
+    50% {
+        transform: scale(1.2)
+    }
+    100% {
+        transform: scale(1)
+    }
+
+}
+
